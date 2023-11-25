@@ -1,0 +1,6 @@
+{
+  "name": "docker_fun",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": ["packages/api_server", "packages/client_app"]
+}

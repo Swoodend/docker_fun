@@ -1,0 +1,11 @@
+CREATE TABLE users (
+  ID INT PRIMARY KEY NOT NULL,
+  NAME TEXT NOT NULL
+);
+
+INSERT INTO users (ID, NAME) VALUES (1, 'Alice');
+INSERT INTO users (ID, NAME) VALUES (2, 'Bob');
+INSERT INTO users (ID, NAME) VALUES (3, 'Carol');
+INSERT INTO users (ID, NAME) VALUES (4, 'Darryl');
+INSERT INTO users (ID, NAME) VALUES (5, 'Emilio');
+
